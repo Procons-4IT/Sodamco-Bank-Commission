@@ -1,0 +1,34 @@
+D:\Project\Sodamco\Commission\bin\Debug\Commission.exe
+D:\Project\Sodamco\Commission\bin\Debug\Commission.pdb
+D:\Project\Sodamco\Commission\bin\Debug\Commission.xml
+D:\Project\Sodamco\Commission\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\Sodamco\Commission\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\Sodamco\Commission\bin\Debug\Interop.Scripting.dll
+D:\Project\Sodamco\Commission\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\Sodamco\Commission\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\Sodamco\Commission\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\Sodamco\Commission\obj\Debug\Interop.Scripting.dll
+D:\Project\Sodamco\Commission\obj\Debug\Commission.vbproj.ResolveComReference.cache
+D:\Project\Sodamco\Commission\obj\Debug\Commission.Resources.resources
+D:\Project\Sodamco\Commission\obj\Debug\ResGen.read.1.tlog
+D:\Project\Sodamco\Commission\obj\Debug\ResGen.write.1.tlog
+D:\Project\Sodamco\Commission\obj\Debug\Commission.exe
+D:\Project\Sodamco\Commission\obj\Debug\Commission.xml
+D:\Project\Sodamco\Commission\obj\Debug\Commission.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Bank Commission\Commission\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Bank Commission\Commission\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Bank Commission\Commission\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Bank Commission\Commission\obj\Debug\Commission.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Bank Commission\Commission\obj\Debug\Commission.exe
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Bank Commission\Commission\obj\Debug\Commission.xml
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Bank Commission\Commission\obj\Debug\Commission.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Bank Commission\Commission\bin\Debug\Commission.exe
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Bank Commission\Commission\bin\Debug\Commission.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Bank Commission\Commission\bin\Debug\Commission.xml
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Bank Commission\Commission\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Bank Commission\Commission\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Bank Commission\Commission\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Bank Commission\Commission\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Bank Commission\Commission\obj\Debug\Commission.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Bank Commission\Commission\obj\Debug\ResGen.read.1.tlog
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Bank Commission\Commission\obj\Debug\ResGen.write.1.tlog
